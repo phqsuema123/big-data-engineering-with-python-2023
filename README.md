@@ -14,7 +14,8 @@ and enter Qur'anic information into the database
 
 
 * Installation
-    * Python v.3
+    * Java 8
+    * Python v.2.7
     * cassandra
     * Python libraries:
         * pandas
@@ -31,6 +32,13 @@ and enter Qur'anic information into the database
         * nltk
 
 # Methodology
+
+Set up Cassandra [ install cassandra]( https://phoenixnap.com/kb/install-cassandra-on-windows#ftoc-heading-4)
+
+Open cassandra
+
+![open in cmd or teminal](https://github.com/phqsuema123/big-data-engineering-with-python-2023/blob/main/image/Screenshot%202024-03-28%20101429.png)
+
 1.Connect Cassandra
 
 2.creat keysapce
