@@ -37,19 +37,30 @@ Set up Cassandra [ install cassandra]( https://phoenixnap.com/kb/install-cassand
 
 Open cassandra
 
-![open in cmd or teminal](https://github.com/phqsuema123/big-data-engineering-with-python-2023/blob/main/image/Screenshot%202024-03-28%20101429.png)
+can open in taminal or cmd
 
-1.Connect Cassandra
+![Alt text](https://github.com/phqsuema123/big-data-engineering-with-python-2023/blob/main/image/Screenshot%202024-03-28%20101429.png?raw=true)
 
-2.creat keysapce
+![Alt text](?raw=true)
 
-3.use keyspase
+Connect Cassandra
 
-4.creat table
 
-5.Extract data from csv
+---> pip install cassandra-driver for use cluster module
 
-6.check table
+![Alt text](https://github.com/phqsuema123/big-data-engineering-with-python-2023/blob/main/image/Screenshot%202024-03-28%20103913.png?raw=true)
+
+creat keysapce
+
+
+
+use keyspase
+
+creat table
+
+Extract data from csv
+
+check table
 
 # Question
 1 How many  the phrase   الٓمٓ   in quran?
